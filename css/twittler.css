@@ -1,0 +1,5 @@
+.left-buffer { margin-left: 20px; }
+.right-buffer { margin-right: 20px; }
+.buffer { margin-left: 20px; margin-right: 20px; }
+.padded { padding-left: 20px; padding-right: 20px; }
+.full-width { max-width: 100%; }
